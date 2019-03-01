@@ -1,6 +1,7 @@
 """
-生成训练用的json文档
-在执行了：python step1B_train_label_2_xml.py 后执行！
+智能盘点—钢筋数量AI识别
+
+生成训练用的json文档; 请执行了python step1B_train_label_2_xml.py 后，再执行本代码！
 """
 
 import xml.etree.ElementTree as ET
