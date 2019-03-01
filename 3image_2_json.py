@@ -2,9 +2,11 @@
 生成测试用的json文件，对测试数据集生成coco格式
 没有annotation
 只有图片的信息和categories的信息
-@author: liuqiang
 """
- 
+# -*- coding: utf-8 -*-
+# @Author: liuqiang
+# @Date:   2019-02-27 18:10:53
+
 import os
 import json
 import collections
