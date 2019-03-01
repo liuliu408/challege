@@ -1,8 +1,8 @@
 """
+智能盘点—钢筋数量AI识别
 通过训练数据和train_label目录的文件生成训练xml数据
-每幅图对应一个xml文档！！
-文档名：直接用训练图片名命令～～
-在执行完：python step1A_CSV_2_train_label.py 后执行！
+每幅图对应一个xml文档！！文档名直接用训练图片名命令～～
+执行了python step1A_CSV_2_train_label.py 后，再执行本代码！
 
 重要提示：务必在当前目录下先创建 train_xml 文件夹！！
 """
