@@ -1,5 +1,8 @@
 """
 智能盘点—钢筋数量AI识别
+第1步：step1A_CSV_2_train_label.py	 
+第2步：step1B_train_label_2_xml.py	 
+第3步：step1C_xml_json.py
 
 生成训练用的json文档; 请执行了python step1B_train_label_2_xml.py 后，再执行本代码！
 """
